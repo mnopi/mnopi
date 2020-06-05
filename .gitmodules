@@ -1,0 +1,66 @@
+[submodule "Bogadia"]
+	path = Bogadia
+	url = https://github.com/j5pu/Bogadia.git
+[submodule "Bogafest"]
+	path = Bogafest
+	url = https://github.com/j5pu/Bogafest.git
+[submodule "climaxporn"]
+	path = climaxporn
+	url = https://github.com/j5pu/climaxporn.git
+[submodule "Darkula"]
+	path = Darkula
+	url = https://github.com/j5pu/Darkula.git
+[submodule "fish"]
+	path = fish
+	url = https://github.com/j5pu/fish.git
+[submodule "Labelee_src"]
+	path = Labelee_src
+	url = https://github.com/j5pu/Labelee_src.git
+[submodule "Labelee-Android"]
+	path = Labelee-Android
+	url = https://github.com/j5pu/Labelee-Android.git
+[submodule "minijuegos"]
+	path = minijuegos
+	url = https://github.com/j5pu/minijuegos.git
+[submodule "mnopi-android"]
+	path = mnopi-android
+	url = https://github.com/j5pu/mnopi-android.git
+[submodule "mnopi-backend"]
+	path = mnopi-backend
+	url = https://github.com/j5pu/mnopi-backend.git
+[submodule "mnopi-plugin"]
+	path = mnopi-plugin
+	url = https://github.com/j5pu/mnopi-plugin.git
+[submodule "phasionate_wordpress"]
+	path = phasionate_wordpress
+	url = https://github.com/j5pu/phasionate_wordpress.git
+[submodule "redirection"]
+	path = redirection
+	url = https://github.com/j5pu/redirection.git
+[submodule "runner-platform"]
+	path = runner-platform
+	url = https://github.com/j5pu/runner-platform.git
+[submodule "Scandal-oh"]
+	path = Scandal-oh
+	url = https://github.com/j5pu/Scandal-oh.git
+[submodule "Scandal-oh_android"]
+	path = Scandal-oh_android
+	url = https://github.com/j5pu/Scandal-oh_android.git
+[submodule "Scandal-oh_backend"]
+	path = Scandal-oh_backend
+	url = https://github.com/j5pu/Scandal-oh_backend.git
+[submodule "scandaloh-plugin"]
+	path = scandaloh-plugin
+	url = https://github.com/j5pu/scandaloh-plugin.git
+[submodule "silly_games"]
+	path = silly_games
+	url = https://github.com/j5pu/silly_games.git
+[submodule "sync_pagelinks"]
+	path = sync_pagelinks
+	url = https://github.com/j5pu/sync_pagelinks.git
+[submodule "topmedianetwork"]
+	path = topmedianetwork
+	url = https://github.com/j5pu/topmedianetwork.git
+[submodule "twitter_bots"]
+	path = twitter_bots
+	url = https://github.com/j5pu/twitter_bots.git
